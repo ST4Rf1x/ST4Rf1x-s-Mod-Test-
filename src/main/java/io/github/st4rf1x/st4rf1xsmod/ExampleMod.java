@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package io.github.st4rf1x.st4rf1xsmod;
 
 import net.fabricmc.api.ModInitializer;
 

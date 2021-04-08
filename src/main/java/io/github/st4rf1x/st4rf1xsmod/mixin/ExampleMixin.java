@@ -1,4 +1,4 @@
-package net.fabricmc.example.mixin;
+package io.github.st4rf1x.st4rf1xsmod.mixin;
 
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;

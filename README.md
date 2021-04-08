@@ -1,8 +1,8 @@
 # Fabric Example Mod
 
-## Setup
+## Compiling
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Clone the repository and run `./gradlew build`, as is standard procedure with any mod, or `gradlew build` on Windows.
 
 ## License
 
