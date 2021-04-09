@@ -6,14 +6,14 @@
   "name": "ST4RF1x's mod",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "ST4RF1x"
+    "ST4RF1x",
+    "Blobanium"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/ST4Rf1x/ST4Rf1x-s-Mod-Test-"
   },
 
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "icon.png",
 
   "environment": "*",
@@ -30,8 +30,5 @@
     "fabricloader": ">=0.7.4",
     "fabric": "*",
     "minecraft": "1.16.x"
-  },
-  "suggests": {
-    "another-mod": "*"
   }
 }
